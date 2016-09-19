@@ -1,6 +1,6 @@
 # Russian.songs.1800-1840
+Corporas of russian literary songs, folksongs and not songs at all (poetry), 19th century first half.
 
-+ Corporas of russian literary songs, folksongs and not songs at all (poetry), 19th century first half.
 + Russian songs (1800-1840ss). Manually collected corpora of folksong imitations.
 + Kireevsky collection. Basic contrastive corpora of folksongs.
 + Sobolevsky collection. Secondary contrastive corpora of folksongs
