@@ -23,7 +23,7 @@ To lemmatize things a [**mystem v.3.0**](https://tech.yandex.ru/mystem/) - stemm
   * ~500,000 words
 4. **songbooks.txt**. Songbooks (1800-1840ss). Folksong population of largest songbooks, 19th century first half.
   * ~20,000 words
-5. Russian poetry (1800-1850). Russian poetry population, drawn from subcorpus of [**Russian National Corpus**](http://ruscorpora.ru/search-poetic.html) 
+5. **ruscorpora.txt**. Russian poetry population, drawn from poetic subcorpus of [**Russian National Corpus**](http://ruscorpora.ru/search-poetic.html), first half of 19th century.
   * ~1.9M words
 
 Semi-manual normalization was made for "Russian song" corpus and Kireyevsky collection to provide some control over extremly heterogeneous folklore texts (in terms of morphology and orthography) and biases due to lemmatization failures. 
@@ -57,7 +57,7 @@ Semi-manual normalization was made for "Russian song" corpus and Kireyevsky coll
   * ~500 тыс. слов
 4. **songbooks.txt**. Песенники (1800-1840-е). Популяция "простонародных" песен из больших сводных песенников первой половины века.
   * ~20 тыс. слов
-5. Русская поэзия (1800-1850). Популяция русской поэзии первой половины XIX в., составленная по поэтическому подкорпусу [**НКРЯ**](http://ruscorpora.ru/search-poetic.html) 
+5.**ruscorpora.txt**. Популяция русской поэзии первой половины XIX в., составленная по поэтическому подкорпусу [**НКРЯ**](http://ruscorpora.ru/search-poetic.html) 
   * ~1.9м слов
 
 Корпус "русских песен" и собрание Киреевского были нормализованы, чтобы получить некоторый контроль над разнородной морфологией и орфографией фольклорных текстов и, таким образом, над шумом, который вносят ошибки лемматизации.
