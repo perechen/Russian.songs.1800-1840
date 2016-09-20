@@ -7,10 +7,10 @@ Corporas of russian literary songs, folksongs and not songs at all (poetry), 19t
 + Songbooks (1800-1840ss). Folksong population of largest songbooks, 19th century first half.
 + Russian poetry (1800-1850). Russian poetry population, drawn from subcorpus of [**Russian National Corpus**](http://ruscorpora.ru/search-poetic.html) 
 
-All corpuses are availiable in two forms: original and lemmatized. 
+All corpuses are availiable in two forms: original and lemmatized.  
+To lemmatize things a [**mystem v.3.0**](https://tech.yandex.ru/mystem/) - stemmer for Russian language - was used.
 
 Semi-manual normalization was made for "Russian song" corpus and Kireevsky collection to provide some control over extremly heterogeneous folklore texts (in terms of morphology and orthography) and biases due to lemmatization failures. 
-To lemmatize things a [**mystem v.3.0**](https://tech.yandex.ru/mystem/) - stemmer for Russian language - was used.
 
 
 **RUS**
@@ -23,9 +23,9 @@ To lemmatize things a [**mystem v.3.0**](https://tech.yandex.ru/mystem/) - stemm
 + Собрание Киреевского. Основной контрастивный корпус фольклорной песни.
 + Собрание Соболевского. Дополнительный контрастивный корпус фольклорной песни.
 + Песенники (1800-1840-е). Популяция "простонародных" песен в песенниках первой половины века.
-+ Русская поэзия (1800-1850). Популяция русской поэзии [**Russian National Corpus**](http://ruscorpora.ru/search-poetic.html) 
++ Русская поэзия (1800-1850). Популяция русской поэзии первой половины XIX в., составленная по поэтическому подкорпусу [**НКРЯ**](http://ruscorpora.ru/search-poetic.html) 
 
-Все корпуса доступны в двух видах: исходном и лемматизованном
+Все корпуса доступны в двух видах: исходном и лемматизованном.  
+Для лемматизации был использован [**mystem v.3.0**](https://tech.yandex.ru/mystem/).
 
 Копрус "русских песен" и собрание Киреевского были нормализованы, чтобы получить некоторый контроль над разнородной морфологией и орфографией фольклорных текстов и, таким образом, над шумом, который вносят ошибки лемматизации.
-Для лемматизации был использован [**mystem v.3.0**](https://tech.yandex.ru/mystem/).
