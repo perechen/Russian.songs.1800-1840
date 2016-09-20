@@ -4,7 +4,7 @@ library(gtools)
 # read metadata table and get/override existing) path connection to each text
 
 db = read.csv("db_with_path.csv", header=T, sep = ";", na.strings = "")
-files = list.files(path = "corpus_split/", full.names = T)
+files = list.files(path = "RP_corpus_split/", full.names = T)
 files = mixedsort(files)
 db$path = files
 
